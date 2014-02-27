@@ -1,0 +1,208 @@
+$tablet: 617px !default;
+$desktop: 1044px !default;
+@import "compass",
+		"amie";
+
+
+$main: #003B79;
+$light: #EFEFEF;
+
+body {
+	background: $light;
+}
+
+a {
+	color: $main;
+	text-decoration: none;
+
+	&:hover,
+	&:active,
+	&:focus {
+		color: lighten($main, 20%);
+	}
+}
+
+header {
+	&#masthead {
+		@include clearfix;
+		border-bottom: solid 1px darken($light, 20%);
+		padding: {
+			top: $gutter / 2;
+			bottom: $gutter / 2;
+		}
+
+		>div {
+			@include container;
+
+			#logo {
+				@include columns (full, half, third, quarter);
+				@include offset (0, quarter, reset, reset);
+
+				img {
+					width: 100%;
+				}
+			}
+		}
+	}
+}
+
+main {
+	&#main {
+		@include clearfix;
+		background: white;
+		// padding: {
+		// 	top: $gutter / 2;
+		// 	bottom: $gutter / 2;
+		// }
+
+		>div {
+			@include container;
+			padding: {
+				top: $gutter / 2;
+				bottom: $gutter / 2;
+			}
+
+			>div {
+				@include columns (full, half, third);
+				@include nth (1, 2, 3);
+				position: relative;
+
+				>div {
+					@include border-radius (3px);
+					background: darken(white, $amount);
+				}
+
+				h4 {
+					@include align (center);
+					color: $main;
+					font-weight: 300;
+					font-size: 1.2em;
+					border: {
+						bottom: solid 1px darken(white, 20%);
+					}
+					padding: {
+						top: 0.5em;
+						bottom: 0.5em;
+					}
+				}
+
+				img {
+					@include border-radius (100%);
+					display: block;
+					max-width: 175px;
+					margin: {
+						right: auto;
+						left: auto;
+					}
+					background: #fff;
+					@include background-clip(padding-box);
+					border: solid 3px $main;
+				}
+
+				p.cat {
+					@include align (center);
+					color: darken(white, 50%);
+					font-weight: 300;
+				}
+
+				.appPrice {
+					@include align (center);
+					color: $main;
+					font-weight: 700;
+				}
+
+				p {
+					&.desc {
+						@include viewport(medium) {
+							min-height: 150px;
+						}
+						@include viewport(large) {
+							min-height: 130px;
+						}
+						padding: {
+							right: $gutter / 2;
+							left: $gutter / 2;
+						}
+					}
+				}
+
+				a.link-ios,
+				a.link-android {
+					@include transition (0.2s);
+					@include align (center);
+					@include border-radius (0 0 3px 3px);
+					@include viewport (large) {
+						&:hover {
+							background: lighten($main, 10%);
+						}
+					}
+					display: block;
+					padding: 0.5em;
+					width: 100%;
+					background: $main;
+					color: $light;
+					margin: {
+						right: auto;
+						left: auto;
+					}
+				}
+				a.link-ios-half {
+					@include transition (0.2s);
+					@include align (center);
+					@include border-radius (0 0 0 3px);
+					@include viewport (large) {
+						&:hover {
+							background: lighten($main, 10%);
+						}
+					}
+					display: block;
+					float: left;
+					padding: 0.5em;
+					width: 50%;
+					background: $main;
+					color: $light;
+					margin: {
+						right: auto;
+						left: auto;
+					}
+				}
+				a.link-android-half {
+					@include transition (0.2s);
+					@include align (center);
+					@include border-radius (0 0 3px 0);
+					@include viewport (large) {
+						&:hover {
+							background: lighten($main, 10%);
+						}
+					}
+					display: inline-block;
+					padding: 0.5em;
+					width: 50%;
+					border-left: solid 1px $light;
+					background: $main;
+					color: $light;
+					margin: {
+						right: auto;
+						left: auto;
+					}
+				}
+			}
+		}
+	}
+}
+
+footer {
+	&#footer {
+		@include clearfix;
+		border-top: solid 1px darken($light, 20%);
+
+		>div {
+			@include container;
+
+			>div {
+				@include container;
+				@include align (center);
+			}
+		}
+	}
+}

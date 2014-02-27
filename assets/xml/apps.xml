@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<software>
+	<app>
+		<appName>Evernote</appName>
+		<appImage>assets/img/apps/evernote.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Evernote is an easy-to-use, free app that helps you remember everything across all of the devices you use.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/evernote/id281796108?mt=8&amp;codekitCB=413473566.673062</ios>
+			<android>https://play.google.com/store/apps/details?id=com.evernote&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>ReferenceME</appName>
+		<appImage>assets/img/apps/referenceme.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Referencing, MadeEasy! Create your Bibliography + Citations in seconds, saving you marks and time.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/referenceme/id553222694?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=appwolf.referenceme.activities&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Notability</appName>
+		<appImage>assets/img/apps/notability.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>£1.99</appPrice>
+		<appDesc>Notability is so powerful that it will transform how you work: sketch ideas, annotate documents, and more.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/notability/id360593530?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>FreeNote</appName>
+		<appImage>https://lh4.ggpht.com/KRzwU7bY4Xja9P1Zf1K4shY61unl4-UEdVYr0IK__P6EXAlvt8egLA6fBcdVb7dPgws=w300-rw</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>FreeNote is the most convenient note app for android.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.suishouxie.freenote&amp;hl=en</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>TED</appName>
+		<appImage>assets/img/apps/ted.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Riveting talks by remarkable people, free to the world. </appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/ted/id376183339?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.ted.android</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>TED Books</appName>
+		<appImage>assets/img/apps/tedbooks.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>TED Books are short original electronic books produced by TED Conferences.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/ted-books/id511071050?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Dragon Dictation</appName>
+		<appImage>assets/img/apps/dragondictation.jpg</appImage>
+		<category>Business</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Dragon Dictation is an easy-to-use voice recognition application that allows you to easily speak and instantly see your text or email messages.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/dragon-dictation/id341446764?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=nuance.com&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Popplet</appName>
+		<appImage>assets/img/apps/popplet.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>£2.99</appPrice>
+		<appDesc>With Popplet you can capture your ideas, sort them visually, and collaborate with others in realtime.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/popplet/id374151636?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>MindMeister</appName>
+		<appImage>https://lh3.ggpht.com/177UwpkfYAUSZO77RkqWzB5_tSw-iN4iqaz813HRWGzJ713PU9IhGzYVxtdvJj1H7kCO=w300-rw</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Create and share mind maps easily with MindMeister, the market leading mind mapping and data visualization tool.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.meisterlabs.mindmeister</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Blackboard</appName>
+		<appImage>assets/img/apps/blackboard.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>£3.99 or £1.49</appPrice>
+		<appDesc>Blackboard Mobile Learn™ makes it easier for you to keep up with your courses by letting you access them whenever and wherever you want.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/blackboard-mobile-learn/id376413870?mt=8&amp;codekitCB=413475353.129378</ios>
+			<android>https://play.google.com/store/apps/details?id=com.blackboard.android&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>iBooks</appName>
+		<appImage>assets/img/apps/iBooks.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>iBooks is a way to download and read books on your iPhone or iPad. You have the option of downloading what you have or purchasing online.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/ibooks/id364709193?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Google Play Books</appName>
+		<appImage>https://lh6.ggpht.com/ths3QaO62Os-uG2icRJ-mDrcylmUEulQmoxJ-1Lk08IS2gwGo8-PXxRsYsa9nao3vwM=w300-rw</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Choose from millions of books on Google Play including new releases, New York Times® bestsellers, textbooks and free classics. Easily adjust font size and customize even more of your reading experience.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.google.android.apps.books</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Wunderlist</appName>
+		<appImage>assets/img/apps/wunderlist.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Wunderlist is an easy way to manage and share your daily to-do lists. Free to use with a pro option available.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/wunderlist-to-do-task-list/id406644151?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Google Drive</appName>
+		<appImage>assets/img/apps/drive.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>free</appPrice>
+		<appDesc>Google Drive lets you create, share and keep all your stuff in one place, starting with 5GB of space for free.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/google-drive/id507874739?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Textastic</appName>
+		<appImage>assets/img/apps/textastic.jpg</appImage>
+		<category>Computing</category>
+		<appPrice>£5.99</appPrice>
+		<appDesc>Textastic is a fast and versatile text, code and markup editor supporting syntax highlighting of over 80 programming and markup languages.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/textastic-code-editor-for/id383577124?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>DroidEdit Pro</appName>
+		<appImage>https://lh6.ggpht.com/FB1ATksrSf6fRGtIBAmRsb84e7HPEMghIAqmrS7VKQeCmyej1SahLlsoMTFS44K5sj4=w300-rw</appImage>
+		<category>Computing</category>
+		<appPrice>£0.81</appPrice>
+		<appDesc>DroidEdit is a text and source code editor (similar to Notepad++ or gedit) for android tablets and phones.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.aor.droidedit.pro&amp;hl=en</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Cato's Hike Lite</appName>
+		<appImage>assets/img/apps/cato.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Essentially, 'Cato’s Hike' is a universal game for the iPhone/iPad/iPod Touch to teach kids and young children basic programming skills.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/catos-hike-lite-programming/id580699267?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Circuit Coder</appName>
+		<appImage>assets/img/apps/circuitcoder.jpg</appImage>
+		<category>Computing</category>
+		<appPrice>£1.49</appPrice>
+		<appDesc>Circuit Coder is a challenging game and simulator for building digital circuits.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/circuit-coder/id492180472</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>EveryCircuit Free</appName>
+		<appImage>https://lh6.ggpht.com/dkRmvNZVKK3NJLiD3XcCst3ALA-fiTjfFCbkghWS5kFBbqC8D7X7sWb_QDjJEeUWIGI=w300-rw</appImage>
+		<category>Science</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Build any circuit, tap play button, and watch dynamic voltage, current, and charge animations. This gives you insight into circuit operation like no equation does. </appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.everycircuit.free</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>SQL Master</appName>
+		<appImage>assets/img/apps/sqlmaster.jpg</appImage>
+		<category>Computing</category>
+		<appPrice>Free</appPrice>
+		<appDesc>SQL Master provides a highly flexible, command-line environment for running SQL commands. </appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/sql-master/id401237390?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>SQL Server Dashboard</appName>
+		<appImage>https://lh4.ggpht.com/spjcJsIaD1mcQ8GR7J_38pLB1UZnrmmwbnQM-pRbqnQDbMA8nDJL0CWJ4kigiVlIZ7ZQ=w300-rw</appImage>
+		<category>Computing</category>
+		<appPrice>Free</appPrice>
+		<appDesc>This app allows users to connect to Microsoft SQL Server Instances and run diagnostic reports against them. The app is compatible with SQL Server 2012, SQL Server 2008 R2, SQL Server 2008 and SQL Server 2005.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.shurvir.android.sqladmin</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Gantt Lite</appName>
+		<appImage>assets/img/apps/ganttlite.jpg</appImage>
+		<category>Business</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Gantt Lite is a project plan viewer that will allow you to import and edit your Microsoft Project Plans on iPad. </appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/gantt-lite-manage-ms-project/id438873081?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>GanttMan</appName>
+		<appImage>https://lh3.ggpht.com/64acj8Yeq4PIhkzV8J4DXCu9u2XqTaCIYFmhRDklZf1xZlSQNMLmN_nan45xbmlWoYU=w300-rw</appImage>
+		<category>Business</category>
+		<appPrice>Free</appPrice>
+		<appDesc>GanttMan is a tool for project scheduling and management. It allows you to create new or edit existing project wherever you are.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.doudera.ganttman</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>VCC</appName>
+		<appImage>assets/img/apps/vcc.jpg</appImage>
+		<category>Law</category>
+		<appPrice>£9.99</appPrice>
+		<appDesc>The Vocabulary of Commercial Contracts. A Practical Guide to the English Vocabulary used in International Commercial Contracts.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/vocabulary-commercial-contracts/id698310383?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=uk.co.brightlylit.toles&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Law Dictionary</appName>
+		<appImage>assets/img/apps/freelaw.jpg</appImage>
+		<category>Law</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Free Law Dictionary is an easy to use, user friendly legal dictionary, with a very big database (more than 1,200 terms).</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/free-law-dictionary/id389490388?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Law Revision</appName>
+		<appImage>assets/img/apps/lawrevision.jpg</appImage>
+		<category>Law</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Law Revision makes use of the EducationApps’ learning platform – designed to help you grasp everything you need to know to perform well in your exams and tests. </appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/law-revision-undergraduate/id578780354</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>SmartLeges Law Reader</appName>
+		<appImage>https://lh5.ggpht.com/uOkf0u8AWSXxGEwAPBY6q13By-LX-oZR-CujA3GhDlRmHSp6l1nSuluPmQy65uFX414=w300-rw</appImage>
+		<category>Law</category>
+		<appPrice>Free</appPrice>
+		<appDesc>SmartLeges is a powerful law reader with the legislation of many countries such as United Kingdom, India, USA, France, Italy, Spain, Brazil, Mexico, Colombia, Argentina, Chile...</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.smartleges.lite</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Visual Anatomy</appName>
+		<appImage>assets/img/apps/visualanatomy.jpg</appImage>
+		<category>Science</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Interactive anatomy reference with 3D rotational models, Gray's anatomy images add-on, a muscle highlighting tool and full description.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/visual-anatomy-lite/id523422151?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.hssn.anatomyfree&amp;hl=en</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Jelly</appName>
+		<appImage>assets/img/apps/jelly.jpg</appImage>
+		<category>Social Science</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Jelly is a new way to search with pictures and people from your social networks. It's also people helping each other—something that's both meaningful and fun.  </appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/jelly/id685652528?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.jellyhq.starfish&amp;hl=en</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>iTunes U</appName>
+		<appImage>assets/img/apps/itunesu.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>The iTunes U app gives you access to complete courses from leading universities and other institutions.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/itunes-u/id490217893?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Psychology Latest</appName>
+		<appImage>assets/img/apps/psychologylatest.jpg</appImage>
+		<category>Social Science</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Psychology Latest - is your source for the latest research news in the psychological field.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/psychology-latest/id492500161?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Psychology</appName>
+		<appImage>https://lh6.ggpht.com/pYwGeuIoFvNVo7NLGq8z7PVz8RmG3BroC0fbjt75TEcugvPx78jjqpUS77fQ3p2AmQ=w300-rw</appImage>
+		<category>Social Science</category>
+		<appPrice>Free</appPrice>
+		<appDesc>The most important concepts of the different psychological currents developed by humans: Psychoanalysis, Behaviorism, Cognitivism, Humanistic Psychology and Psychobiology.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.andurin.corrientespsicologicas&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>PM</appName>
+		<appImage>assets/img/apps/pm.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>Business</appPrice>
+		<appDesc>This Project Management App comes with free training videos, software, articles and tips to help you manage projects.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/project-management-software/id492134207?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>PM Courses Pro</appName>
+		<appImage>https://lh5.ggpht.com/x0P1JceknfFo7ObiobaafokrR7ydPB5ELE5AhEDq9_decO6y_itG2CGZnOYv3oopZik=w300-rw</appImage>
+		<category>Business</category>
+		<appPrice>Free</appPrice>
+		<appDesc>This app has a lot of thing about project management. Lots of tips, videos, tutorials and free apps inside once you download this app.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.bestappsforphone.projectmanagementcoursestrainingsteps3&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Prince2 Certification</appName>
+		<appImage>assets/img/apps/prince2.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>The all-around self-study PRINCE2 Training course for PRINCE2 Foundation certification. Learn PRINCE2 from your phone.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/bs/app/prince2-certification-project/id690389460?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>PRINCE2 ExamBoost</appName>
+		<appImage>https://lh6.ggpht.com/rD1uUPRckPz3z1iRE3P5fNx1yOzAeLDkbfmWue4Yw4sdGmFoWFxA9BY84YLc4O-dLFE-=w300-rw</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>‘PRINCE2 ExamBoost’ helps you pass the PRINCE2® Foundation Exam (2009 edition) in no time.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.prince&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>DB Designer</appName>
+		<appImage>assets/img/apps/dbdesigner.jpg</appImage>
+		<category>Computing</category>
+		<appPrice>£2.99</appPrice>
+		<appDesc>DB Designer for iPad is a visual editor for creating databases for MS SQL Server, MySQL, PostgreSQL or SQLite.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/db-designer/id554110572?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Double Entry Downpour</appName>
+		<appImage>assets/img/apps/ded.jpg</appImage>
+		<category>Business</category>
+		<appPrice>£1.49</appPrice>
+		<appDesc>If you’re learning Double Entry or just want to brush up on your knowledge of Debits and Credits, Double Entry Downpour is the game for you.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/double-entry-downpour/id510628546?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=air.DEDownpour&amp;hl=en</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>ConceptIQ</appName>
+		<appImage>assets/img/apps/conceptiq.jpg</appImage>
+		<category>Computing</category>
+		<appPrice>Free</appPrice>
+		<appDesc>The objective of the game is to use the shortest number of steps possible to get to an end concept from a starting concept.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/conceptiq-micro-economics/id659305985?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Dynamic ART</appName>
+		<appImage>assets/img/apps/dynamicart.jpg</appImage>
+		<category>Computing</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Dynamic ART Lite is a graphical programming environment on iPad. It's easy to create artwork and animations with Dynamic ART Lite.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/dynamic-art-lite-graphical/id599415102?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Mobile Game Dev</appName>
+		<appImage>assets/img/apps/mobilegamedev.jpg</appImage>
+		<category>Computing</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Discover how easy it can be to create your own mobile game on this Game Development Course for Beginners.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/mobile-game-development/id657997217?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>iStudiez Lite</appName>
+		<appImage>assets/img/apps/iStudiez.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Take advantage of iStudiez easy navigation and manage your student schedule.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/istudiez-lite/id322439186?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Everstudent</appName>
+		<appImage>https://lh6.ggpht.com/BkSoe5RSMFR6PAizYaKnjT6l3T1fwuFs_khbMy4Rp5NvkhmXvSVUCxXpeAtXzkZMvA=w300-rw</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Everstudent lets you keep track of your daily academic tasks with a simple yet elegant planner interface, while synchronizing with the greatest note-taking software, Evernote.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.olegvaskevich.everstudent&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>MyFitnessPal</appName>
+		<appImage>assets/img/apps/myfitnesspal.jpg</appImage>
+		<category>Sport</category>
+		<appPrice>Free</appPrice>
+		<appDesc>The fastest and easiest-to-use calorie counter for iPhone. With the largest food database of any iPhone calorie counter (over 3,000,000 foods)</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/calorie-counter-diet-tracker/id341232718?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.myfitnesspal.android&amp;hl=en</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>iXpenseIt</appName>
+		<appImage>assets/img/apps/ixpenseit.jpg</appImage>
+		<category>General Education</category>
+		<appPrice>£2.99</appPrice>
+		<appDesc>iXpenseIt simplifies daily expense tracking and monthly budgeting. With iXpenseIt, it's never been easier to stay current on your personal budget.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/ixpenseit-expense-+-income/id284947174?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>XpenseApp lite</appName>
+		<appImage>https://lh6.ggpht.com/oR4xxP4qtx-vwb-FYYq0mkOODNtO-fVuibUwTtrJcfaFGNtRQsnUkNOs0T-FS5WDIB-6=w300-rw</appImage>
+		<category>General Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Now you can record expenses anywhere, anytime within seconds. Customize your personal and business expenses with easy to understand reports.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.app.expense.tracker.xpenseapp.lite&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<!-- <app>
+		<appName></appName>
+		<appImage></appImage>
+		<category></category>
+		<appPrice></appPrice>
+		<appDesc></appDesc>
+		<appLink>
+			<ios></ios>
+			<android></android>
+		</appLink>
+	</app> -->
+</software>
