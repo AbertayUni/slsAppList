@@ -89,13 +89,24 @@
 		</appLink>
 	</app>
 	<app>
+		<appName>Popplet Lite</appName>
+		<appImage>assets/img/apps/poppletlite.jpg</appImage>
+		<category>Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>With Popplet you can capture your ideas, sort them visually, and collaborate with others in realtime.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/popplet-lite/id364738549?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
 		<appName>MindMeister</appName>
 		<appImage>assets/img/apps/mindmeister.jpg</appImage>
 		<category>Education</category>
 		<appPrice>Free</appPrice>
 		<appDesc>Create and share mind maps easily with MindMeister, the market leading mind mapping and data visualization tool.</appDesc>
 		<appLink>
-			<ios></ios>
+			<ios>https://itunes.apple.com/gb/app/mindmeister-mind-mapping/id381073026?mt=8</ios>
 			<android>https://play.google.com/store/apps/details?id=com.meisterlabs.mindmeister</android>
 		</appLink>
 	</app>
@@ -366,7 +377,7 @@
 	<app>
 		<appName>PM Courses Pro</appName>
 		<appImage>assets/img/apps/project.jpg</appImage>
-		<category>Project Managemen</category>
+		<category>Project Management</category>
 		<appPrice>Free</appPrice>
 		<appDesc>This app has a lot of thing about project management. Lots of tips, videos, tutorials and free apps inside once you download this app.</appDesc>
 		<appLink>
@@ -377,7 +388,7 @@
 	<app>
 		<appName>Prince2 Certification</appName>
 		<appImage>assets/img/apps/prince2.jpg</appImage>
-		<category>Project Managemen</category>
+		<category>Project Management</category>
 		<appPrice>Free</appPrice>
 		<appDesc>The all-around self-study PRINCE2 Training course for PRINCE2 Foundation certification. Learn PRINCE2 from your phone.</appDesc>
 		<appLink>
@@ -388,7 +399,7 @@
 	<app>
 		<appName>PRINCE2 ExamBoost</appName>
 		<appImage>assets/img/apps/princeexam.jpg</appImage>
-		<category>Project Managemen</category>
+		<category>Project Management</category>
 		<appPrice>Free</appPrice>
 		<appDesc>‘PRINCE2 ExamBoost’ helps you pass the PRINCE2® Foundation Exam (2009 edition) in no time.</appDesc>
 		<appLink>
@@ -506,15 +517,180 @@
 			<android>https://play.google.com/store/apps/details?id=com.app.expense.tracker.xpenseapp.lite&amp;hl=en_GB</android>
 		</appLink>
 	</app>
-	<!-- <app>
-		<appName></appName>
-		<appImage></appImage>
-		<category></category>
-		<appPrice></appPrice>
-		<appDesc></appDesc>
+	<app>
+		<appName>Mendeley</appName>
+		<appImage>assets/img/apps/mendeley.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Mendeley is your personal research library. Carry thousands of PDFs in your pocket. Read and annotate them on the go, search your entire library, and easily sync everything.</appDesc>
 		<appLink>
-			<ios></ios>
+			<ios>https://itunes.apple.com/gb/app/mendeley/id380669300?mt=8</ios>
 			<android></android>
 		</appLink>
-	</app> -->
+	</app>
+	<app>
+		<appName>Erudio Free</appName>
+		<appImage>assets/img/apps/erudio-free.jpg</appImage>
+		<category>Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>With Erudio, managing your day to day life as a student has never been easier. It organises the chaos of classes, assignments, readings, grades, exams and tasks that you face every day.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/erudio-free-student-organizer/id515879588?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Pages</appName>
+		<appImage>assets/img/apps/pages.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>£6.99</appPrice>
+		<appDesc>Pages is the most beautiful word processor you’ve ever seen on a mobile device. This powerful word processor helps you create gorgeous reports, CVs and documents in minutes.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/pages/id361309726?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Wikipedia</appName>
+		<appImage>assets/img/apps/wikipedia.jpg</appImage>
+		<category>Reference</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Official Wikipedia App for iOS and Android. Wikipedia is the free encyclopedia containing more than 20 million articles in 280 languages.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/wikipedia-mobile/id324715238?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=org.wikipedia</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Canvas</appName>
+		<appImage>assets/img/apps/canvas.jpg</appImage>
+		<category>Education</category>
+		<appPrice>Free</appPrice>
+		<appDesc>It’s time to get in touch with your education. Your Canvas content goes everywhere with you on your iOS or Android device.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/us/app/canvas-by-instructure-cloud/id480883488?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.instructure.candroid</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Feedly</appName>
+		<appImage>assets/img/apps/feedly.jpg</appImage>
+		<category>News</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Instead of having to hunt down for news, Feedly aggregates the contents of your favorite sites and delivers them as a fast mobile-optimised experience.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/feedly-reader/id396069556?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.devhd.feedly</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Documents To Go Office Suite</appName>
+		<appImage>assets/img/apps/docs2go.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>Android: Free, iOS: £6.99</appPrice>
+		<appDesc>Work from anywhere: view, edit, and create Microsoft Word &amp; Excel files and view PowerPoint &amp; Adobe PDF files, with the original and #1 selling mobile Office suite of all time.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/documents-to-go-standard-office/id317117961?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.dataviz.docstogo</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Springpad</appName>
+		<appImage>assets/img/apps/springpad.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Get organised, get inspired, and get more done with Springpad—the free personal organiser app that lets you save and organise tasks, recipes, notes, movies and more.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/springpad/id360116898?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.springpad</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>InkPad Notepad</appName>
+		<appImage>assets/img/apps/inkpad.png</appImage>
+		<category>Productivity</category>
+		<appPrice>Free</appPrice>
+		<appDesc>InkPad Notepad is the simple, elegant, easy way to keep notes on your phone, or on the web.</appDesc>
+		<appLink>
+			<ios></ios>
+			<android>https://play.google.com/store/apps/details?id=com.workpail.inkpad.notepad.notes&amp;hl=en_GB</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Colwiz</appName>
+		<appImage>assets/img/apps/colwiz.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>Free</appPrice>
+		<appDesc>For researchers, academics and students. Colwiz syncs your research articles, attachments and annotations with the Desktop App over the Internet.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/colwiz/id489512298?mt=8</ios>
+			<android>https://play.google.com/store/apps/details?id=com.colwiz.lib</android>
+		</appLink>
+	</app>
+	<app>
+		<appName>IELTS EssayBuilder</appName>
+		<appImage>assets/img/apps/essaybuilder.jpg</appImage>
+		<category>Education</category>
+		<appPrice>£1.49</appPrice>
+		<appDesc>IELTS EssayBuilder helps you to enlarge your vocabulary, enrich your sentence structure, and more.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/ielts-essay-builder/id590510778?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Adobe Ideas</appName>
+		<appImage>assets/img/apps/adobeideas.jpg</appImage>
+		<category>Illustration</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Adobe Ideas gives you the ability to draw freeform vector illustrations wherever you are. Replace your pen and paper with a huge virtual canvas, customizable brushes, and pressure sensitive stylus support.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/adobe-ideas-vector-drawing/id364617858?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Memo</appName>
+		<appImage>assets/img/apps/memo.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Take your notes on the go using your handwriting and convert them to digital text that you can export, share or copy/paste to any other text application.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/myscript-memo/id446368116?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>Penultimate</appName>
+		<appImage>assets/img/apps/penultimate.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>Free</appPrice>
+		<appDesc>The most natural digital handwriting experience on iPad, Penultimate gives you the convenience and feel of writing on paper with the added power and availability of Evernote.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/penultimate/id354098826?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>	
+	<app>
+		<appName>Unstuck</appName>
+		<appImage>assets/img/apps/unstuck.jpg</appImage>
+		<category>Lifestyle</category>
+		<appPrice>Free</appPrice>
+		<appDesc>Unstuck is a new in-the-moment approach to personal growth for anyone who wants to live better every day.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/unstuck/id478421271?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
+	<app>
+		<appName>GoodNotes 4</appName>
+		<appImage>assets/img/apps/goodnotes.jpg</appImage>
+		<category>Productivity</category>
+		<appPrice>£3.99</appPrice>
+		<appDesc>GoodNotes lets you take notes and annotate PDF documents. They will be synced to all your iOS devices automatically, thanks to iCloud.</appDesc>
+		<appLink>
+			<ios>https://itunes.apple.com/gb/app/goodnotes-4-notes-pdf/id778658393?mt=8</ios>
+			<android></android>
+		</appLink>
+	</app>
 </software>
