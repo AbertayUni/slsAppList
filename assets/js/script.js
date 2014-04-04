@@ -41,3 +41,25 @@ $(document).ready(function() {
 		}
 	})
 });
+
+
+// var ios = 0;
+// 	var android = 0;
+	
+// 	if($(this).children("ios").length > 0 {
+// 		ios = 1;			
+// 	}
+			
+// 	if($(this).children("android").length > 0) {
+// 		android = 1;			
+// 	}
+	
+// 	if(ios && android) {
+// 		// code to do both
+// 	}
+// 	else if(ios) {
+// 		// code for ios
+// 	}
+// 	else if(android) {
+// 		// code for android
+// 	}
